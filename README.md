@@ -8,6 +8,7 @@ I am a Computer Science Student at the Georgia Institute of Technology in the Sy
 
 ## 🖥️ I'm Currently Learning
 **CS 3600:** Introduction to Artificial Intelligence
+
 **CS 2200:** Introduction to Computer Systems and Networks
 
 ## To Prospective Employers:

@@ -1,4 +1,5 @@
-# Hey, I am Devin!
+# Hey! 👋
+![Visitor Count](https://profile-counter.glitch.me/Dfromond/count.svg)
 ## A Little Bit About Me:
 I am a Computer Science Student at the Georgia Institute of Technology in the Systems & Architecture and Intelligence threads. 
 

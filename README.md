@@ -1,5 +1,7 @@
-# 💫 About Me:
-I am a second-year Computer Science student at Georgia Tech.<br>At Georgia Tech, students are required to choose two threads as part of the CS major.<br>As such, I chose Systems & Architecture as well as Intelligence, which will be reflected in my later coursework.<br>
+# 💫 Hi! I'm Devin! Here's a little bit about me:
+I am a Computer Science Student at the Georgia Institute of Technology in the Systems & Architecture and Intelligence threads. 
+
+If you are a prospective employer, all of my projects and coursework can be found in the @Devins-Undergraduate-Education GitHub Organization.
 
 
 ## 🌐 Socials:
@@ -12,7 +14,7 @@ I am a second-year Computer Science student at Georgia Tech.<br>At Georgia Tech,
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dfromond&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dfromond&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️Words To Life By:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

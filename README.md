@@ -1,5 +1,5 @@
 # Hey! 👋
-![Visitor Count](https://profile-counter.glitch.me/Dfromond/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/Dfromond/badge-it)](https://badges.pufler.dev)
 ## A Little Bit About Me:
 I am a Computer Science Student at the Georgia Institute of Technology in the Systems & Architecture and Intelligence threads. 
 

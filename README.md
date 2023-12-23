@@ -1,9 +1,9 @@
-# Hi! I'm Devin!
-## Here's a Little Bit About Me:
+# Hey, I am Devin!
+## A Little Bit About Me:
 I am a Computer Science Student at the Georgia Institute of Technology in the Systems & Architecture and Intelligence threads. 
 
 ## To Prospective Employers:
-All of my projects and coursework can be found in the [Devins-Undergraduate-Education](https://github.com/Devins-Undergraduate-Education) Organization.
+All of my projects and coursework can be found in [Devins-Undergraduate-Education](https://github.com/Devins-Undergraduate-Education).
 
 
 ## 📊 GitHub Stats:

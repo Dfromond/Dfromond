@@ -7,8 +7,10 @@ I'm Devin Fromond!
 I am a Computer Science Student at the Georgia Institute of Technology in the Systems & Architecture and Intelligence threads. 
 
 ## 🖥️ I'm Currently Learning
-- **CS 3600:** Introduction to Artificial Intelligence
-- **CS 2200:** Introduction to Computer Systems and Networks
+- **CS 3510:** Design and Analysis of Algorithms
+- **CS 4220:** Embedded Sytems
+- **CS 4641:** Machine Learning
+- **ISYE 3770**: Statististics and Applications
 
 ## To Prospective Employers:
 All of my projects and coursework can be found in [Devins-Undergraduate-Education](https://github.com/Devins-Undergraduate-Education).

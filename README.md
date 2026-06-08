@@ -3,7 +3,6 @@
 # Devin Fromond
 
 ![ Georgia Tech ](https://img.shields.io/badge/Georgia%20Tech-Computer%20Science-B3A369?style=flat-square)
-![ Focus ](https://img.shields.io/badge/Focus-Systems%20%7C%20AI%20%7C%20Automation-003057?style=flat-square)
 
 Computer Science graduate from the Georgia Institute of Technology with interests across systems, artificial intelligence, automation, and research software.
 

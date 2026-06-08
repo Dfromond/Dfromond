@@ -1,18 +1,28 @@
 ![Georgia Tech Swimming Pool](https://swag.gatech.edu/sites/default/files/2020-08/swimming-linkedin.jpg)
-# Hey! 👋
-[![Years Badge](https://badges.pufler.dev/years/Dfromond)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/Dfromond/badge-it)](https://badges.pufler.dev) 
 
-I'm Devin Fromond!
+# Devin Fromond
 
-I am a Computer Science Student at the Georgia Institute of Technology in the Systems & Architecture and Intelligence threads. 
+![Georgia Tech](https://img.shields.io/badge/Georgia%20Tech-Computer%20Science-B3A369?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Systems%20%7C%20AI%20%7C%20Automation-003057?style=flat-square)
 
-## 🖥️ I'm Currently Learning
-- **CS 3510:** Design and Analysis of Algorithms
-- **CS 4220:** Embedded Sytems
-- **CS 4641:** Machine Learning
-- **ISYE 3770**: Statististics and Applications
+Computer Science graduate from the Georgia Institute of Technology with interests across systems, artificial intelligence, automation, and research software.
 
-## To Prospective Employers:
-All of my projects and coursework can be found in [Devins-Undergraduate-Education](https://github.com/Devins-Undergraduate-Education).
+I use GitHub to document implementation-focused work: course projects, systems labs, full-stack research tools, and applied machine learning projects. Much of my undergraduate work is archived in [Devins-Undergraduate-Education](https://github.com/Devins-Undergraduate-Education), a collection of selected Georgia Tech repositories organized by course and project area.
 
-*The GitHub organization listed above is updated bi-annually and does not reflect any work experiences or club/organization involvement.*
+## Areas of Interest
+
+- Systems programming, operating systems, and computer architecture
+- Artificial intelligence, machine learning, and computer vision
+- Automation, intelligent agents, and workflow tooling
+- Full-stack development for academic and research computing projects
+
+## Selected Work
+
+**RCAMS**  
+Worked on the Research Computing Accounting Management System, an inner-source project built with open source development practices for research computing accounting workflows.
+
+**Apache Airavata MFT**  
+Contributed to Georgia Tech Vertically Integrated Project work around Apache Airavata, including frontend and backend support for managed file transfer workflows.
+
+**Georgia Tech Coursework Archive**  
+Maintained a structured archive of selected undergraduate projects, labs, assignments, and programs across systems, intelligence, algorithms, theory, and applied software development.

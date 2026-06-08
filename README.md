@@ -2,8 +2,6 @@
 
 # Devin Fromond
 
-![ Georgia Tech ](https://img.shields.io/badge/Georgia%20Tech-Computer%20Science-B3A369?style=flat-square)
-
 Computer Science graduate from the Georgia Institute of Technology with interests across systems, artificial intelligence, automation, and research software.
 
 I use GitHub to document implementation-focused work: course projects, systems labs, full-stack research tools, and applied machine learning projects. Much of my undergraduate work is archived in [Devins-Undergraduate-Education](https://github.com/Devins-Undergraduate-Education), a collection of selected Georgia Tech repositories organized by course and project area.

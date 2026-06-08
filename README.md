@@ -6,7 +6,7 @@ Computer Science graduate from the Georgia Institute of Technology with interest
 
 I use GitHub to document implementation-focused work: course projects, systems labs, full-stack research tools, and applied machine learning projects. Much of my undergraduate work is archived in [Devins-Undergraduate-Education](https://github.com/Devins-Undergraduate-Education), a collection of selected Georgia Tech repositories organized by course and project area. 
 
-My contributions to other projects are under private repositories. For more details - or to reach out - please refer to my [LinkedIn](https://www.linkedin.com/in/dfromond/).
+My contributions to other projects are under private repositories. For more details, or to reach out, please refer to my [LinkedIn](https://www.linkedin.com/in/dfromond/).
 
 ## Areas of Interest
 
